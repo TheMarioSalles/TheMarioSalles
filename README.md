@@ -1,13 +1,13 @@
-- 🖖🏻 Hello there, I hope you enjoy your time in here. I am @TheMarioSalles.
+- 🖖🏻 Hello there, I hope you enjoy your time reading this. I am @TheMarioSalles.
 
 
-- 👀 I’m interested in Geek & Tech contents such as new programming languages versions, new SDE tools and so on.
+- 👀 I’m interested in Geek & Tech contents such as new programming languages, new SDE tools and AI 🤖
 
 
-- 🌱 I’m currently learning about IT Management, .NET 6 Features and to be a better human being (but it seems the last one takes some time).
+- 🌱 I’m currently learning about machine learning, Prompt Engineering and how to be a better human being (yeah still, it seems the latter takes a good while to master).
 
 
-- 💞️ I’m thrilled to help develop a better world for us to live in. It includes the needed improvements I have to seek in order to do so.
+- 💞️ I’m thrilled to help develop a better world for us to live in.
 
 
 - 😃 How to reach me:
